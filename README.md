@@ -102,7 +102,7 @@ This assessment is designed to evaluate your expertise in building a Django web 
 
 ## Timeline
 
-This assessment is designed to be completed within **8 hours**.
+This assessment is designed to be completed within **10 hours**.
 
 ---
 
